@@ -1,4 +1,4 @@
 # git-and-github-demo
 This is my first Git repository
 <br>
-Author - Harshvardhan
+Author - Harshvardhan (MCA Student)
